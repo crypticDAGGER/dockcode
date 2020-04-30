@@ -1,4 +1,19 @@
 # codeblitz
+A vue js based Multi-Language code editor which dynamically switches between the preferred language of choice .The application is highly scalable and reactive in nature.
+
+Light mode 
+<img src ="src/assets/light.png">
+
+
+
+Dark mode support
+<img src = "src/assets/dark.png">
+
+
+Footer links
+<img src = "src/assets/footer.png">
+
+
 
 ## Project setup
 ```
