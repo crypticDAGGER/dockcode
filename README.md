@@ -1,4 +1,4 @@
-# codeblitz
+# dockcode
 A vue js based Multi-Language code editor which dynamically switches between the preferred language of choice .The application is highly scalable and reactive in nature.
 
 Light mode 
